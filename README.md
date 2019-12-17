@@ -1,4 +1,4 @@
-# Simple-children-game
+# Children's game
 
 This is a multiplayer children's game created in python. The graphics is drawn by using the turtle module.
 
